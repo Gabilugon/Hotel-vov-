@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hotel da Vovó</title>
+  <!-- Link para o CSS externo -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Bem-vindo ao Hotel da Vovó</h1>
+    <p>Explore nosso hotel encantador e conheça cada detalhe</p>
+  </header>
+  
+  <main>
+    <section class="gallery">
+      <div class="photo">
+        <img src="fotos/hotel1.jpg" alt="Foto do lobby do hotel">
+        <p>Lobby aconchegante e decorado com carinho</p>
+      </div>
+      <div class="photo">
+        <img src="fotos/hotel2.jpg" alt="Quarto espaçoso com vista">
+        <p>Quarto espaçoso com uma vista incrível</p>
+      </div>
+      <div class="photo">
+        <img src="fotos/hotel3.jpg" alt="Jardim do hotel">
+        <p>Nosso belo jardim para momentos de relaxamento</p>
+      </div>
+    </section>
+  </main>
+  
+  <footer>
+    <p>Hotel da Vovó - Todos os direitos reservados © 2023</p>
+  </footer>
+</body>
+</html>
